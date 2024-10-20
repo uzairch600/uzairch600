@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 - Email: uzairchaudhary1616@gmail.com
   Instagram: @uzairch600"
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I love playing badminton and often find myself 'running my fingers' over the keyboard in VS Code, filling in lines of code!"
 
 <!---
