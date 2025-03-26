@@ -3,7 +3,7 @@
 - 🌱 "I’m currently learning full-stack development with a focus on React Native and React JS."
 - 💞️ "I am looking to collaborate on React Native and React JS projects to further enhance my skills."
 - 📫 How to reach me:
-- Email: uzairchaudhary1616@gmail.com
+- Email: muhammaduzair.web@gmail.com
 
 - ⚡ Fun fact: I love playing badminton and often find myself 'running my fingers' over the keyboard in VS Code, filling in lines of code!"
 
